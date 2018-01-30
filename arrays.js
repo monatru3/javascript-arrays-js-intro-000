@@ -1,5 +1,6 @@
 function addElementToBeginningOfArray(origArray, element) {
  origArray=[]
+ origArray[...element,]
  
   
 }
